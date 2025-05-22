@@ -1,5 +1,8 @@
 Title: Customer Analytics Dashboard – Hotel Guest Feedback
+
+
 This interactive Power BI dashboard provides a comprehensive overview of hotel guest feedback, transforming raw survey data into actionable insights for customer experience enhancement. Designed with a sleek dark theme and vibrant visuals, the dashboard presents key metrics at a glance while allowing for intuitive exploration.
+
 
  Key Features:
 Net Promoter Score (NPS): Visual breakdown of Promoters, Detractors, and Passives with a gauge chart to measure overall loyalty (NPS = 24).
